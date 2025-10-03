@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Collection of TypeScript Design Patterns",
   "scripts": {
-    "chain-of-responsibility": "pnpm tsx chain-of-responsibility/design-pattern.ts"
+    "chain-of-responsibility": "pnpm tsx chain-of-responsibility/design-pattern.ts",
+    "command": "pnpm tsx command/design-pattern.ts"
   },
   "keywords": [
     "typescript",
